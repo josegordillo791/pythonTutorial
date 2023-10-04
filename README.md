@@ -21,4 +21,15 @@ def main():
 
 # call function main 
 main()
+
+#Otro ejemplo de codigo :
+a = True
+b = False
+c = 8
+if (a is True
+        and b is False
+        and c == 8):
+    print("Se cumplió con el condicional")
+else:
+    print("No se cumplió con el condicional")
 ```
