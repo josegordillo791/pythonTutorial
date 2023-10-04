@@ -1,6 +1,6 @@
 # pythonTutorial
 Curso Fundamental de aprendizaje del lenguaje Python
-##Sintaxis basica del lenguaje [Sintaxis](link=https://github.com/josegordillo791/pythonTutorial/blob/index/1_Sintaxis.md)https://github.com/josegordillo791/pythonTutorial/blob/index/1_Sintaxis.md).
+##Sintaxis basica del lenguaje [Sintaxis](https://github.com/josegordillo791/pythonTutorial/blob/index/1_Sintaxis.md)https://github.com/josegordillo791/pythonTutorial/blob/index/1_Sintaxis.md).
 <a name="top"></a>
 # Título de nuestro documento
  
