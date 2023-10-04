@@ -1,11 +1,8 @@
 # pythonTutorial
 Curso Fundamental de aprendizaje del lenguaje Python
-##Sintaxis basica del lenguaje [Sintaxis](https://github.com/josegordillo791/pythonTutorial/blob/index/1_Sintaxis.md)https://github.com/josegordillo791/pythonTutorial/blob/index/1_Sintaxis.md).
-<a name="top"></a>
-# Título de nuestro documento
  
 ## Índice de contenidos
-* [Contenido 1](#item1)
+* [Sintaxis](1_Sintaxis.md)
 * [Contenido 2](#item2)
 * [Contenido 3](#item3)
 * [Contenido 4](#item4)
