@@ -32,4 +32,12 @@ if (a is True
     print("Se cumplió con el condicional")
 else:
     print("No se cumplió con el condicional")
+
+# se utiliza la barra invertida para
+# continuar con un condicional
+if (a is True) and (b is False) and \
+        (c == 8):
+    print("Se cumplió con el condicional")
+else:
+    print("No se cumplió con el condicional")
 ```
